@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="app-engine-flexible" name="Google App Engine Flexible">
+      <configuration>
+        <option name="appYamlPath" value="$MODULE_DIR$/src/main/appengine/app.yaml" />
+        <option name="dockerDirectory" value="$MODULE_DIR$/src/main/docker" />
+      </configuration>
+    </facet>
+    <facet type="app-engine-standard" name="Google App Engine Standard">
+      <configuration />
+    </facet>
+    <facet __external-system-id="Maven" type="google-app-engine" name="Google App Engine">
+      <configuration>
+        <sdk-home-path>$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.9.10/appengine-java-sdk/appengine-java-sdk-1.9.10</sdk-home-path>
+      </configuration>
+    </facet>
+  </component>
+</module>
